@@ -14,10 +14,7 @@ You need:
 * numpy 
 * pyaduio
 
-install it via:audio, sampling_rate, left_channel, right_channel, mono_channel = read_audio("path/to/file.wav", separateChannels = True)
-
-
-
+install it via:
 ```
 sudo apt-get install python3 python3-venv build-essential libblas-dev \
  liblapack-dev gfortran-4.9 libatlas-dev libatlas-base-dev
@@ -28,7 +25,7 @@ sudo pip3 install numpy
 sudo pip3 install pyaudio
 ```
 
-Usage
+Usage:
 -----------------
 * initialize
 ```
