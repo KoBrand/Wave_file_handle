@@ -30,10 +30,14 @@ sudo pip3 install pyaudio
 
 Usage
 -----------------
+```
 from wave_file_hande import *
-
+```
+```
 audio, sampling_rate, left_channel, right_channel, mono_channel = read_audio("path/to/file.wav", separateChannels = True)
 
+...
+```
 
 
 
