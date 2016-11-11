@@ -47,7 +47,7 @@ audio, sampling_rate, left_channel, right_channel, mono_channel = read_audio("pa
 
 Further information
 -------------------
-Here I geive some additional Information on wave files in Pyton.
+Here I give some additional Information on wave files in Pyton.
 
 * difference between mono and stereo
 * difference between 8bit and 16 bit
