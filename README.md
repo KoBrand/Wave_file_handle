@@ -1,9 +1,10 @@
 # Wave_file_handle in Pyton
 =================================================================
+
 A functions to read, write and play wavefiles in Python 
 (like in matlab with sound / waveread / audioread)
 
-* Only supports 16 bit and 8 bit wavefiles!
+* Only supports 16 bit and 8 bit wavefiles
 
 Requirements
 ------------
