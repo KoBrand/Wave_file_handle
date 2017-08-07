@@ -1,4 +1,4 @@
-# Wave_file_handle in Pyton
+# Wave_file_handle in Python
 =================================================================
 
 A functions to read, write and play wavefiles in Python 
