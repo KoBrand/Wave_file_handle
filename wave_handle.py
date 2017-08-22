@@ -333,3 +333,5 @@ def de_interlace_channel(array):
     channels = np.array((left_channel, right_channel))
     return channels
 
+if __name__ == "__main__":
+    print("this is just a wave file handle lib")
